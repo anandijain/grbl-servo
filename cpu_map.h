@@ -125,7 +125,7 @@
   // Variable spindle configuration below. Do not change unless you know what you are doing.
   // NOTE: Only used when variable spindle is enabled.
   #ifdef SPINDLE_IS_SERVO
-    #define SPINDLE_PWM_MAX_VALUE     38  // set max pulse duration to 2.5ms
+    #define SPINDLE_PWM_MAX_VALUE     128  // set max pulse duration to 2.5ms
     #ifndef SPINDLE_PWM_MIN_VALUE
       #define SPINDLE_PWM_MIN_VALUE   7   // set min pulse duration to 0.5ms
     #endif
