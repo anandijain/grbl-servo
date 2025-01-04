@@ -34,3 +34,9 @@ $122=10.000
 $130=200.000
 $131=200.000
 $132=200.000
+
+todo
+attach belt to new pen holder
+cut the servo wires
+solder on new wires to length 
+add 3pin female dupont 
