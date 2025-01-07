@@ -1,5 +1,10 @@
 # my grbl settings
 
+limit switches 
+x+ y+ 
+z- for servo
+
+
 $0=10
 $1=25
 $2=0
